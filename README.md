@@ -1,0 +1,1 @@
+# group-by-15minutes-in-date-column-in-SQL
